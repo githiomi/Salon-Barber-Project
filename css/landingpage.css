@@ -1,0 +1,38 @@
+body{
+	background-color: black;
+}
+
+.jumbotron h1{
+	text-align: center;
+	font-weight: bolder;
+	margin-top: 10px;
+}
+
+p{
+	text-align: center;
+	color: wheat;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.buttons{
+	margin-left: 180px;
+}
+
+button{
+	width: 200px;
+	padding: 10px;
+	border-radius: 10px;
+	border: 2px solid blue;
+	background-color: wheat;
+	color: black;
+	text-align: center;
+	margin: 3% 10% 3% 10%;
+}
+
+#kings img{
+	margin: 5px;
+}
+#queens img{
+	margin: 5px;
+}
